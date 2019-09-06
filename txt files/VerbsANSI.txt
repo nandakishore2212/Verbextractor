@@ -1,0 +1,230 @@
+%Verbs of Putting
+*Put Verbs
+-arrange, immerse, install, lodge, mount, place, position,
+put, set, situate, sling, stash, stow
+
+*Verbs of Putting in a Spatial Confguration
+-dangle, hang, lay, lean, perch, rest, sit, stand, suspend
+
+*Funnel Verbs
+-bang, channel, dip, dump, funnel, hammer, ladle, pound,
+push, rake, ram, scoop, scrape, shake, shovel, siphon, spoon, squeeze, squish,
+squash, sweep, tuck, wad, wedge, wipe, wring
+
+*Verbs of Putting with a Specifed Direction
+-drop, hoist, lift, lower, raise
+
+*Pour Verbs
+-dribble, drip, pour, slop, slosh, spew, spill, spurt
+
+*Coil Verbs
+-coil, curl, loop, roll, spin, twirl, twist, whirl, wind
+
+*Spray/Load Verbs
+-brush, cram, crowd, cultivate, dab, daub, drape, drizzle,
+dust, hang, heap, inject, jam, load, mound, pack, pile, plant, plaster, ?prick,
+pump, rub, scatter, . seed, settle, sew, shower, slather, smear, smudge, sow,
+spatter, splash, splatter, spray, spread, sprinkle, spritz, squirt, stack, stick, stock,
+strew, string, stu?, swab, ?vest, ?wash, wrap
+
+*Fill Verbs
+ador, anoint, bandage, bathe, bestrew, bind, blanket, block,
+blot, bombard, carpet, choke, cloak, clog, clutter, coat, contaminate, cover,
+dam, dapple, deck, decorate, deluge, dirty, douse, dot, drench, edge, embellish, emblazon, encircle, encrust, endow, enrich, entangle, face, festoon, fill,
+fleck, ?ood, frame, garland, garish, imbue, impregnate, infect, inlay, interlace,
+interlard, interleave, intersperse, interweave, inundate, lard, lash, line, litter,
+mask, mottle, orament, pad, pave, plate, plug, pollute, replenish, repopulate,
+riddle, ring, ripple, robe, saturate, season, shroud, smother, soak, soil, speckle,
+splotch, spot, sta?, stain, stipple, stop up, stud, su?e, suround, swaddle,
+swathe, taint, tile, trim, veil, vein, wreathe
+
+*Butter Verbs
+-asphalt, bait, blanket, blindfold, board, bread, brick, bridle,
+bronze, butter, buttonhole, cap, carpet, caulk, chrome, cloak, cork, crown,
+diaper, drug, feather, fence, ?our, forest, fame, fuel, gag, garland, glove, grafti,
+gravel, grease, groove, halter, haress, heel, ink, label, leash, leaven, lipstick,
+mantle, mulch, muzzle, nickel, oil, orament, panel, paper, parquet, patch,
+pepper, perfume, pitch, plank, plaster, poison, polish, pomade, poster, postmark,
+powder, putty, robe, roof, rosin, rouge, rut, saddle, salt, salve, sand, seed,
+sequin, shawl, shingle, shoe, shutter, silver, slate, slipcover, sod, sole, spice,
+stain, starch, stopper, stress, string, stucco, sugar, sulphur, tag, tar, tarmac,
+tassel, thatch, ticket, tile, turf, veil, veneer, wallpaper, water, wax, whitewash,
+wreathe, yoke, zipcode
+
+*Pocket Verbs
+-archive, bag, bank, beach, bed, bench, berth, billet, bin;
+bottle, box, cage, can, case, cellar, cloister, coop, corral, crate, dock, drydock,
+fle, fork, garage, ground, hangar, house, jail, jar, jug, kennel, land, lodge,
+pasture, pen, pillory, pocket, pot, sheathe, shelter, shelve, shoulder, skewer,
+snare, spindle, spit, spool, stable, string, tin, trap, tree, warehouse
+
+
+%Verbs of Removing
+*Remove Verbs
+-abstract, cull, delete, discharge, disgorge, dislodge, dismiss,
+disengage, draw, eject, eliminate, eradicate, evict, excise, excommunicate, expel, extirpate, extract, extrude, lop, omit, ostracize, oust, partition, pry, reap,
+remove, separate, sever, shoo, subtract, uproot, winkle, withdraw, wrench
+
+*Banish Verbs
+-banish, deport, evacuate, expel, extradite, recall, remove
+
+*Clear Verbs
+-clear, clean, drain, empty
+
+*Wipe Verbs
+$Manner Subclass
+-bail, bu?, dab, distill, dust, erase, expunge, ?ush, leach,
+lick, pluck, polish, prune, purge, rinse, rub, scour, scrape, scratch, scrub, shave,
+skim, smooth, soak, squeeze, strain, strip, suck, suction, swab, sweep, trim,
+wash, wear, weed, whisk, winnow, wipe, Vring
+
+$Instrument Subclass
+-brush, comb, file, filter, hoover, hose, iron, mop, plow, rake,
+sandpaper, shear, shovel, siphon, sponge, towel, vacuum
+
+*Verbs of Possessional Deprivation: Steal Verbs
+-abduct, cadge, capture, confscate, cop, emancipate, embezzle, exorcise, extort, extract, flch, flog, grab, impound, kidnap, liberate, lift,
+nab, pilfer, pinch, pirate, plagiarize, purloin, recover, redeem, reclaim, regain,
+n·possess, rescue, retrieve, rustle, seize, smuggle, snatch, sneak, sponge, steal,
+swipe, take, thieve, wangle, weasel, winkle, withdraw, wrest
+
+*Verbs of Possessional Deprivation: Cheat Verbs
+-absolve, acquit, balk, bereave, bilk, bleed, break (ofa habit),
+burgle, cheat, cleanse, con, cull, cure, defraud, denude, deplete, depopulate,
+deprive, despoil, disabuse, disarm, disencumber, dispossess, divest, drain, ease,
+exonerate, ?eece, free, gull, milk, mulct, pardon, plunder, purge, purify,ransack,
+relieve, render, rid, ri?e, rob, sap, strip, swindle, unburden, void, wean
+
+*Pit Verbs
+-bark, beard, bone, burl, core, gill, gut, head, hull, husk, lint,
+louse, milk, peel, pinion, pip, pit, pith, pod, poll, pulp, rind, scale, scalp, seed,
+shell, shuck, skin, snail, stalk, stem, stone, string, tail, tassel, top, vein, weed,
+wind, worm, zest
+
+*Debone Verbs
+-deaccent, debark, debone, deb6wel, debug, debur, declaw,
+defang, defat, defeather, deflea, de?esh, defoam, defog, deforest, defrost, defuzz, degas, degerm, deglaze, degrease, degrit, degum, degut, dehair, dehead,
+dehor, dehull, dehusk, deice, deink, delint, delouse, deluster, demast, derat, derib, derind, desalt, descale, desex, desprout, destarch, destress, detassel, detusk,
+devein, dewater, dewax, deworm
+
+*Mine Verbs
+-mine, quarry
+
+
+%Verbs of Sending and Carrying
+*Send Verbs
+-airmail, convey, deliver, dispatch, express, FedEx, forward,
+hand, mail, pass, port, post, retur, send, shift, ship, shunt, slip, smuggle, sneak,
+transfer, transport, UPS
+
+*Slide Verbs
+-bounce, float, move, roll, slide
+
+*Bring and Take
+-bring, take (only)
+
+*Carry Verbs
+-carry, drag, haul, heave, heft, hoist, kick, lug, pull, push,
+schlep, shove, tote, tow, tug
+
+*Drive Verbs
+-barge, bus, cart, drive, ferry, fly, row, shuttle, truck, wheel,
+wire (money)
+
+*Verbs of Exerting Force: Push/Pull Verbs
+-draw, heave, jerk, press, pull, push, shove, thrust, tug,
+yank
+
+%Verbs of Change of Possession
+*Give Verbs
+-feed, give, lease, lend, loan, pass, pay, peddle, refund,
+render, rent, repay, sell, serve, trade
+
+*Contribute Verbs
+-administer, contribute, disburse, distribute, donate, extend,
+forfeit, proffer, refer, reimburse, relinquish, remit, restore, retur, sacrifice,
+submit, surrender, transfer
+
+*Verbs of Future Having
+-advance, allocate, allot, assign, award, bequeath, cede,
+concede, extend, grant, guarantee, issue, leave, o?er, owe, promise, vote, will,
+yield
+
+*Verbs of Providing
+$Verbs of Fulflling
+-credit, entrust, furish, issue, leave, present, provide, serve,
+supply, trust
+
+$Equip Verbs
+-arm, burden, charge (with a task), compensate, equip, invest,
+ply, regale, reward, saddle
+
+*Verbs of Obtaining
+$Get Verbs
+-book, buy, call, cash, catch, charter, ?choose, ear, fetch,
+fnd, gain, gather, get, hire, keep, lease, leave, order, phone (doctor), pick (fruit,
+flower), pluck (?ower), procure, pull (a beer), reach, rent, reserve, save, secure,
+shoot (game), slaughter (animal), steal, vote, win
+
+$Obtain Verbs
+-accept, accumulate, acquire, appropriate, borrow, ?cadge,
+collect, exact, grab, inherit, obtain, purchase, receive, recover, regain, retrieve,
+seize, select, snatch
+
+*Verbs of Exchange
+-barter, change, exchange, substitute, swap, trade
+
+*Berry Verbs
+-antique, berry, birdnest, blackberry, clam, crab, fish, fowl,
+grouse, hay, log, mushroom, nest, nut, oyster, pearl, prawn, rabbit, seal, shark,
+shrimp, snail, snipe, sponge, whale, whelk
+
+%Learn Verbs
+-acquire, cram, glean, lear, memorize, read, study
+
+%Hold and Keep Verbs
+*Hold Verbs
+-clasp, clutch, grasp, grip, handle, hold, wield
+
+*Keep Verbs
+-hoard, keep, leave, store
+
+%Verbs of Concealment
+-block, cloister, conceal, curtain, hide, isolate, quarantine,
+screen, seclude, sequester, shelter
+
+%Verbs of Throwing
+*Throw Verbs
+-bash, bat, bunt, ?cast, catapult, chuck, fre (projectile), ?ick,
+fling, ?ip, hit (ball), hurl, kick (ball), knock, lob, ?loft, nudge, pass, pitch, punt,
+shoot (projectile), shove, slam, slap, sling, smash, tap, throw, tip, toss
+
+*Pelt Verbs
+-bu?et, bombard, pelt, shower, stone
+
+%Verbs of Contact by Impact
+*Hit Verbs
+-bang, bash, batter, beat, bump, butt, dash, drum, hammer, hit, kick, knock, lash, pound, rap, slap, smack, smash (where no e?ect
+implicated), strike, tamp, tap, thump, thwack, whack
+
+*Swat Verbs
+-bite, claw, paw, peck, punch (person), scratch, shoot (gun),
+slug, stab, swat, swipe
+
+*Spank Verbs
+-belt, birch, bludgeon, bonk, brain, cane, clobber, club, conk,
+cosh, cudgel, cuff, ?og, knife, paddle, paddywhack, pummel, sock, spank, strap,
+thrash, truncheon, wallop, whip, whisk
+
+*Non-Agentive Verbs of Contact by Impact
+-bang, brush, bump, crash, hit, knock, ram, slam, smash,
+thud
+
+%Poke Verbs
+-dig, jab, pierce, poke, prick, stick
+
+%Verbs of Contact: Touch Verbs
+-caress, graze, kiss, lick, nudge, pat, peck (=kiss), pinch,
+prod, sting, stroke, tickle, touch
+
+
